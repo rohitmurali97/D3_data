@@ -1,38 +1,38 @@
-name,parent,area,type
-India,,,
-Rajasthan,India,10.42,state
-Madhya Pradesh,India,9.37,state
-Maharashtra,India,9.36,state
-Uttar Pradesh,India,7.33,state
-Gujarat,India,5.96,state
-Karnataka,India,5.83,state
-Ladakh,India,1.8,state
-Andhra Pradesh,India,4.87,state
-Odisha,India,4.73,state
-Chhattisgarh,India,4.11,state
-Tamil Nadu,India,3.95,state
-Telangana,India,3.49,state
-Bihar,India,2.86,state
-West Bengal,India,2.7,state
-Arunachal Pradesh,India,2.54,state
-Jharkhand,India,2.42,state
-Assam,India,2.38,state
-Himachal Pradesh,India,1.7,state
-Jammu and Kashmir,India,1.7,state
-Uttarakhand,India,1.62,state
-Punjab,India,1.53,state
-Haryana,India,1.34,state
-Kerala,India,1.18,state
-Meghalaya,India,0.68,state
-Manipur,India,0.68,state
-Mizoram,India,0.64,state
-Nagaland,India,0.5,state
-Tripura,India,0.31,state
-Andaman and Nicobar Islands,India,0.25,UT
-Sikkim,India,0.21,UT
-Goa,India,0.11,UT
-NCT Delhi,India,0.04,UT
-Dadra and Nagar Haveli and Daman and Diu,India,0.01,UT
-Puducherry,India,0.01,UT
-Chandigarh,India,0.003,UT
-Lakshadweep,India,0.001,UT
+name,parent,area,type,literacy,,
+India,,,,,,
+Andaman and Nicobar Islands,India,0.25,UT,86.27,,
+Andhra Pradesh,India,4.87,state,67.66,,
+Arunachal Pradesh,India,2.54,state,66.95,,
+Assam,India,2.38,state,73.18,,
+Bihar,India,2.86,state,63.82,,
+Chandigarh,India,0.003,UT,86.43,,
+Chhattisgarh,India,4.11,state,71.04,,
+Dadra and Nagar Haveli and Daman and Diu,India,0.01,UT,77.65,,
+Goa,India,0.11,UT,87.07,,
+Gujarat,India,5.96,state,86.34,,
+Haryana,India,1.34,state,87.4,,
+Himachal Pradesh,India,1.7,state,79.31,,
+Jammu and Kashmir,India,1.7,state,76.64,,
+Jharkhand,India,2.42,state,83.78,,
+Karnataka,India,5.83,state,68.72,,
+Kerala,India,1.18,state,67.63,,
+Ladakh,India,1.8,state,75.6,,
+Lakshadweep,India,0.001,UT,93.41,,
+Madhya Pradesh,India,9.37,state,92.28,,
+Maharashtra,India,9.36,state,70.63,,
+Manipur,India,0.68,state,82.91,,
+Meghalaya,India,0.68,state,79.85,,
+Mizoram,India,0.64,state,75.48,,
+Nagaland,India,0.5,state,91.58,,
+NCT Delhi,India,0.04,UT,80.11,,
+Odisha,India,4.73,state,73.45,,
+Puducherry,India,0.01,UT,86.55,,
+Punjab,India,1.53,state,76.68,,
+Rajasthan,India,10.42,state,67.06,,
+Sikkim,India,0.21,UT,82.2,,
+Tamil Nadu,India,3.95,state,80.33,,
+Telangana,India,3.49,state,71,,
+Tripura,India,0.31,state,87.75,,
+Uttar Pradesh,India,7.33,state,69.72,,
+Uttarakhand,India,1.62,state,79.63,,
+West Bengal,India,2.7,state,77.08,,
