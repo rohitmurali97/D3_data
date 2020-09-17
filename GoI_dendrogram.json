@@ -1,7 +1,7 @@
 {
   "children": [
     {
-      "name": "boss3",
+      "name": "Judiciary",
       "children": [
         {
           "name": "mister_i",
@@ -23,7 +23,7 @@
       "colname": "level2"
     },
     {
-      "name": "boss1",
+      "name": "Legislature",
       "children": [
         {
           "name": "mister_a",
@@ -45,7 +45,7 @@
       "colname": "level2"
     },
     {
-      "name": "boss2",
+      "name": "Executive",
       "children": [
         {
           "name": "mister_e",
@@ -67,5 +67,5 @@
       "colname": "level2"
     }
   ],
-  "name": "CEO"
+  "name": "GoI"
 }
