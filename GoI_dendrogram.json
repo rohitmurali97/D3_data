@@ -4,8 +4,20 @@
       "name": "Judiciary",
       "children": [
         {
-          "name": "mister_i",
-          "colname": "level3"
+          "name": "Supreme Court",
+          "colname": "level3",
+          "children": [
+            {
+              "name": "High Court",
+              "colname": "level4",
+              "children": [
+            {
+              "name": "District Court",
+              "colname": "level5"
+            }
+            ]
+            }
+          ]
         },
         {
           "name": "mister_j",
@@ -90,14 +102,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "mister_c",
-          "colname": "level3"
-        },
-        {
-          "name": "mister_d",
-          "colname": "level3"
         }
       ],
       "colname": "level2"
@@ -106,19 +110,19 @@
       "name": "Executive",
       "children": [
         {
-          "name": "mister_e",
+          "name": "President",
           "colname": "level3"
         },
         {
-          "name": "mister_f",
+          "name": "Vice-President",
           "colname": "level3"
         },
         {
-          "name": "mister_g",
+          "name": "Prime Minister",
           "colname": "level3"
         },
         {
-          "name": "mister_h",
+          "name": "Council of Minister",
           "colname": "level3"
         }
       ],
