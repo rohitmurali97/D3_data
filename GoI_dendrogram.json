@@ -5,7 +5,7 @@
       "children": [
         {
           "name": "mister_i",
-          "colname": "level4"
+          "colname": "level3"
         },
         {
           "name": "mister_j",
@@ -26,12 +26,70 @@
       "name": "Legislature",
       "children": [
         {
-          "name": "mister_a",
-          "colname": "level3"
+          "name": "Central",
+          "colname": "level3",
+          "children": [
+            {
+              "name": "Lok Sabha",
+              "colname": "level4"
+            },
+            {
+              "name": "Rajya Sabha",
+              "colname": "level4"
+            }
+          ]
         },
         {
-          "name": "mister_b",
-          "colname": "level3"
+          "name": "State",
+          "colname": "level3",
+          "children": [
+            {
+              "name": "Legislative Assembly",
+              "colname": "level4"
+            },
+            {
+              "name": "Legislative Council",
+              "colname": "level4"
+            }
+          ]
+        },
+        {
+          "name": "Local",
+          "colname": "level3",
+          "children": [
+            {
+              "name": "Urban",
+              "colname": "level4",
+              "children": [
+                {
+                  "name": "Municipal Corporation",
+                  "colname": "level4"
+                },
+                {
+                  "name": "Municipality",
+                  "colname": "level4"
+                },
+                {
+                  "name": "Town Panchayat",
+                  "colname": "level4"
+                }
+              ]
+            },
+            {
+              "name": "Rural",
+              "colname": "level3",
+              "children": [
+                {
+                  "name": "Gram Panchayat",
+                  "colname": "level4"
+                },
+                {
+                  "name": "Zila Parishad",
+                  "colname": "level4"
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "mister_c",
